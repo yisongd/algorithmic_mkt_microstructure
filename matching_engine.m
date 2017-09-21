@@ -2,7 +2,7 @@
 buy = 1;
 sell = 2;
 t_min = 1;
-t_max = 6322;
+t_max = 6323;
 burn_in_period = 3322;
 price_max = 20;
 price_min = 1;
